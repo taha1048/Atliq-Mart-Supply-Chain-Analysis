@@ -59,3 +59,22 @@ Looking at the city level and city-customer level by switching between kPIs
 1. Peek of orders & lines
 2. Shipping days
 ![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-5](https://github.com/user-attachments/assets/f9a0b506-6302-4e7b-8c71-11cd4daa7396)
+
+---
+Results
+---
+# 1. On Time Delivery 
+As shown we didn't meet our target even once, nor for customers, cities, or time.
+
+![OnTime](https://github.com/user-attachments/assets/5943e8d5-a6a9-4fb3-abbe-56d71f74170f)
+
+We have a huge drop for these 3 customers:
+1. Lotus Mart
+2. Acclaimed Stores
+3. Coolblue
+
+The problem is that those are on the top of our customers list
+
+![customers table](https://github.com/user-attachments/assets/12c23a23-5ba7-47b1-923b-e174aefc4d70)
+
+
