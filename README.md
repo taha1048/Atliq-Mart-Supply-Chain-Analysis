@@ -25,7 +25,7 @@ You can download the material from [here](https://codebasics.io/challenge/codeba
 ### 4. Product Category
 
 # EDA and Data Mining
-I used Python and SQL to explore the data to see how to clean and visualize it and to test some hypothesies. You can find the file [here]
+I used Python and SQL to explore the data to see how to clean and visualize it and to test some hypothesies. You can find the file [here](https://github.com/taha1048/Atliq-Mart-Supply-Chain-Analysis/blob/main/EDA%2C%20Data%20Cleaning%2C%20%26%20Data%20Mining.ipynb)
 
 # Asking Questions
 We want to identify: 
