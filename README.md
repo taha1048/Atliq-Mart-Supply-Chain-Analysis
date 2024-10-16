@@ -4,7 +4,7 @@
 # Problem Statement
 ### AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
-### AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
+### AtliQ Mart is currently facing a problem where (a few key customers did not extend their annual contracts due to service issues). It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
 
 ### The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
 
@@ -24,3 +24,16 @@ You can download the material from [here](https://codebasics.io/challenge/codeba
 ### 3. Product
 ### 4. Product Category
 
+# EDA and Data Mining
+I used Python and SQL to explore the data to see how to clean and visualize it and to test some hypothesies. You can find the file [here]
+
+# Asking Questions
+We want to identify: 
+### 1. The issue
+### 2. Who has it
+### 3. Where
+### 4. When
+
+# 1. Identifing The Issue
+I created a switch button to move between different KPIs and compare between Actual and Target for each one 
+![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-1](https://github.com/user-attachments/assets/cc72f18d-e67d-4bcf-a023-779450ff163e)
