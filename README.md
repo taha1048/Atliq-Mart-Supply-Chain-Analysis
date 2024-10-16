@@ -32,8 +32,27 @@ We want to identify:
 ### 1. The issue
 ### 2. Who has it
 ### 3. Where
-### 4. When
+Note : Usually we would consider a when question, but after exploring the data, the numbers where similar all the time so there is no correlation here
 
 # 1. Identifing The Issue
-I created a switch button to move between different KPIs and compare between Actual and Target for each one 
+I created a switch button to move between different KPIs and see the Actual VS Target for each one 
 ![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-1](https://github.com/user-attachments/assets/cc72f18d-e67d-4bcf-a023-779450ff163e)
+
+# 2. Who has it 
+Comparing between customers in terms of all the previous KPIs
+![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-2](https://github.com/user-attachments/assets/ef89c23d-256b-48d9-b13e-0ec2790da1a5)
+
+# 3. Where
+Looking at the city level and city-customer level by switching between kPIs
+![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-3](https://github.com/user-attachments/assets/1390412a-55e0-4eb8-98ce-53e9a909ed13)
+
+---
+### After answering these questions and in order to solve the problem we need to manage our stores, lines of production, and timing, so let's keep going.
+---
+# 4. Product Analysis
+see which products are ordered the most, average quantity ordered/dilevered/delayed per line, in which category, in which size,...
+![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-4](https://github.com/user-attachments/assets/90b83304-8cfd-4fdd-a6e7-ab6e657f0af7)
+
+# 5. Lines & Orders
+Identify the peek of our orders, shipping days,...
+![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-5](https://github.com/user-attachments/assets/f9a0b506-6302-4e7b-8c71-11cd4daa7396)
