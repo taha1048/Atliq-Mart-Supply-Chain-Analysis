@@ -50,9 +50,12 @@ Looking at the city level and city-customer level by switching between kPIs
 ### After answering these questions and in order to solve the problem we need to manage our stores, lines of production, and timing, so let's keep going.
 ---
 # 4. Product Analysis
-see which products are ordered the most, average quantity ordered/dilevered/delayed per line, in which category, in which size,...
+1. Products that are ordered the most
+2. Average quantity ordered/dilevered/delayed per line
+3. Category & size comparison
 ![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-4](https://github.com/user-attachments/assets/90b83304-8cfd-4fdd-a6e7-ab6e657f0af7)
 
 # 5. Lines & Orders
-Identify the peek of our orders, shipping days,...
+1. Peek of orders & lines
+2. Shipping days
 ![13c5a1bf9fba47819d25b5bdce751339Ho1thUJQEHwMZnjf-5](https://github.com/user-attachments/assets/f9a0b506-6302-4e7b-8c71-11cd4daa7396)
