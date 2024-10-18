@@ -63,6 +63,6 @@ Looking at the city level and city-customer level by switching between kPIs
 ---
 Results
 ---
-
+You can download the file from [here](https://github.com/taha1048/Atliq-Mart-Supply-Chain-Analysis/blob/main/SupplyChainDashboard.pbix) and answer your own questions
 
 
